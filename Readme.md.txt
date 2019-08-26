@@ -1,0 +1,1 @@
+A repository for User modeling. It is still in development phase however it tends to explore the user modeling techniques for delivering adaptive content to users.
